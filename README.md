@@ -50,11 +50,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santhosh-veerabathiran&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-veerabathiran&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
-</p>
-
 <p align="center"><i>Building payments infrastructure, one commit at a time.</i></p>
