@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://santhosh-veerabathiran-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio.santhosh-veerabathiran.com"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/santhosh-veerabathiran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/santhosh_2392"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/devil_s_santhosh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -22,7 +22,7 @@
 - 🔭 Software Engineer at **Surfboard Payments**, building a Swedish payments platform — ~30 NestJS/TypeScript microservices and an Angular operations console.
 - 💳 I work across **settlements &amp; billing, KYC/AML, credit-data SDKs, search infrastructure**, and human-in-the-loop **AI** features.
 - 🧩 I like **event-driven systems, clean SDK/client design**, and shipping things end to end.
-- 🌐 Portfolio → **[santhosh-veerabathiran-portfolio.pages.dev](https://santhosh-veerabathiran-portfolio.pages.dev)**
+- 🌐 Portfolio → **[portfolio.santhosh-veerabathiran.com](https://portfolio.santhosh-veerabathiran.com)**
 - 📫 Reach me → **santhosh20020923@gmail.com**
 
 ### 🛠️ Tech Stack
